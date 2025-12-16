@@ -31,13 +31,6 @@ This project helps reduce manual work, avoids billing errors, and demonstrates t
 
 ---
 
-## 📂 Project Structure
-Cafe-Management-System/
-│
-├── cafe_management.py # Main Python program
-└── README.md # Project documentation
-
-
 ## 📸 Screenshots
 
 ### ▶️ Screenshot 1: Running the Program in Command Prompt
