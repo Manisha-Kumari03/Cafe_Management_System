@@ -41,10 +41,10 @@ Cafe-Management-System/
 ## 📸 Screenshots
 
 ### ▶️ Screenshot 1: Running the Program in Command Prompt
-![Program Execution](screenshots/run_program.png)
+![Program Execution](run_program.png)
 
 ### 🧾 Screenshot 2: Order and Bill Generation
-![Order Output](screenshots/order_bill.png)
+![Order Output](order_bill.png)
 
 
 ---
